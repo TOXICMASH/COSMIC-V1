@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *PIKACHU*:  ```" + msg + "```"
+    return "✅ *COSMIC*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *PIKACHU*:  ```" + msg + "```"
+    return "🛑 *COSMIC*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *PIKACHU*:  ```" + msg + "```"
+    return "⏺️ *COSMIC*:  ```" + msg + "```"
 }
 
 
