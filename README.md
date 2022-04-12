@@ -2,14 +2,14 @@
 <div align="center"
 
 
-[![COSMIC](COSMIC.jpg?size=100000)](https://github.com/ANUSER1)
+[![COSMIC-V1](COSMIC.jpg?size=100000)](https://github.com/ANU-SER)
 
-## [![COSMO](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=🆆︎🅴︎🅻︎🅲︎🅾︎🅼︎🅴︎+🅃🄾+🅰︎🅽︎🆄︎🆂︎🅴︎🆁︎+🅆🄰+🅱︎🅾︎🆃︎+🅁🄴🄿🄾;🅲︎🆁︎🅴︎🅰︎🆃︎🅴︎🅳︎+🄱🅈+🅰︎🅽︎🆂︎🅷︎🅸︎🅳︎+;🅃🄷🄸🅂+🅸︎🆂︎+🅃🄷🄴+🅱︎🅴︎🆂︎🆃︎+🄱🄶🄼+🅱︎🅾︎🆃︎;🅆🄸🅃🄷+🅼︎🅾︎🆁︎🅴︎+🄵🄴🄰🅄🅃🄴🅁🅂)](https://bit.ly/2VM4lxF)
+## [![COSMIC-V1](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=🆆︎🅴︎🅻︎🅲︎🅾︎🅼︎🅴︎+🅃🄾+🅰︎🅽︎🆄︎🆂︎🅴︎🆁︎+🅆🄰+🅱︎🅾︎🆃︎+🅁🄴🄿🄾;🅲︎🆁︎🅴︎🅰︎🆃︎🅴︎🅳︎+🄱🅈+🅰︎🅽︎🆂︎🅷︎🅸︎🅳︎+;🅃🄷🄸🅂+🅸︎🆂︎+🅃🄷🄴+🅱︎🅴︎🆂︎🆃︎+🄱🄶🄼+🅱︎🅾︎🆃︎;🅆🄸🅃🄷+🅼︎🅾︎🆁︎🅴︎+🄵🄴🄰🅄🅃🄴🅁🅂)](https://bit.ly/2VM4lxF)
 
 
 
 #### 𝕋𝕆𝕋𝔸𝕃 ℝ𝔼ℙ𝕆 𝕍𝕀𝔼𝕎𝕊 🤖🤖🤖                        
-![Visitor Count](https://profile-counter.glitch.me/ANUSER1/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/ANU-SER/count.svg)
   
 
 
@@ -22,7 +22,7 @@
 </p>
 </div>
 <p align="center">
-𝕋𝕙𝕚𝕤 𝕡𝕣𝕠𝕛𝕖𝕔𝕥 𝕔𝕣𝕖𝕒𝕥𝕖𝕕 𝕓𝕪 <a href="https://github.com/ANUSER1/COSMIC">𝔸ℕ𝕊ℍ𝕀𝔻</a> 𝕋𝕠 𝕞𝕒𝕜𝕖 𝕚𝕥 𝕡𝕦𝕓𝕝𝕚𝕔
+𝕋𝕙𝕚𝕤 𝕡𝕣𝕠𝕛𝕖𝕔𝕥 𝕔𝕣𝕖𝕒𝕥𝕖𝕕 𝕓𝕪 <a href="https://github.com/ANU-SER/COSMIC-V1">𝔸ℕ𝕊ℍ𝕀𝔻</a> 𝕋𝕠 𝕞𝕒𝕜𝕖 𝕚𝕥 𝕡𝕦𝕓𝕝𝕚𝕔
     <br>
        | © |
         ℝ𝕖𝕤𝕖𝕣𝕧𝕖𝕕 |
