@@ -1,14 +1,14 @@
 {
-  "name": "Pikachu",
+  "name": "COSMIC",
   "version": "7.3.6",
-  "description": "pikachu is the Modified Version of WhatsAsena.",
-  "main": "./pikachu/bot.js",
+  "description": "COSMIC is the Modified Version of WhatsAsena.",
+  "main": "./COSMIC-V1/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ameer-kallumthodi/pikachu.git"
+    "url": "git+https://github.com/ANU-SER/COSMIC-V1.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,13 +17,13 @@
     "Pinky",
     "Afnanplk"
   ],
-  "author": "Ameer Suhail",
+  "author": "ANSHID",
   "developer": "@ameer-kallumthodi",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com//ameer-kallumthodi/pikachu/issues"
+    "url": "https://github.com//ANU-SER/COSMIC-V1/issues"
   },
-  "homepage": "https://github.com//ameer-kallumthodi/pikachu#readme",
+  "homepage": "https://github.com//ANU-SER/COSMIC-V1#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.4.1",
     "@lh2020/speedtest-net": "^2.1.1",
