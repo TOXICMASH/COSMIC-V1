@@ -25,7 +25,7 @@ princerudh.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true},
       
       const buttonMessage = {
           contentText: '```'+Config.BOTV2+'\n\n```'+Config.ALIVEMSG+'\n',
-          footerText: '₢ᴘʀɪɴᴄᴇ ʀᴜᴅʜ',
+          footerText: '₢anshid',
           buttons: buttons,
           headerType: 1
       }
